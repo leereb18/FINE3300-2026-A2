@@ -7,10 +7,10 @@ The Consumer Price Index (CPI), published monthly by Statistics Canada, measures
 
 ## Files
 
-- `cpi_inflation.ipynb`: This notebook holds the entire project. It has the CPI graph, as well as the improved inflation calculator, along with the step-by-step thought process I had to create it. 
+- `README.md`: You are here! Feel free to use this notebook as a directory.
 - `STATIC_INFLATIONCALC.csv`: This is the BoC's published monthly CPI data, ranging from 1914-2026. For more information, view https://www.bankofcanada.ca/rates/related/inflation-calculator/
 - `cpi_graph.png`: This is the CPI graph exported as a .png file.
-- `README.md`: You are here! Feel free to use this notebook as a directory.
+- `cpi_inflation.ipynb`: This notebook holds the entire project. It has the CPI graph, as well as the improved inflation calculator, along with the step-by-step thought process I had to create it. 
 
 ## How to run the project
 
